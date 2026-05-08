@@ -1,2 +1,2 @@
-vless://e25a8cc9-9c62-4d3c-9174-22de315b5cfc@arvancloud.ir:80/?type=ws&encryption=none&flow=&host=deltaforce6.mrvpn100.shop&path=%2F#arian
-vless://9068ceca-f8d6-441b-b48a-88bf33ecc756@arvancloud.ir:80/?type=ws&encryption=none&flow=&host=deltaforce6.mrvpn100.shop&path=%2F#mhmd
+vless://cb6e7ab7-8ef8-43a8-a95f-2d87af94ce9c@5.253.27.13:80/?type=tcp&encryption=none&flow=#live-3srh10bv
+vless://69241343-8c6e-4c13-96bb-626ee9e35d9a@5.253.27.13:80/?type=tcp&encryption=none&flow=#live-soc13
