@@ -26,3 +26,14 @@ vless://f6c5ac83-736b-4221-aba1-7d957c9f67f3@62.220.123.227:42007?encryption=non
 vless://813b5505-1158-4bda-90bc-aa8ec3f3cab5@62.220.123.227:42007?encryption=none&security=none&type=tcp&headerType=none#SR.H0JAT%20-%20alinazi.mq
 vless://2b564cac-288a-4fe6-bf63-05849ef86717@62.220.123.227:42007?encryption=none&security=none&type=tcp&headerType=none#SR.H0JAT%20-%20u30e2tas
 vless://b3154138-26a3-4811-bada-ef4da893f328@62.220.123.227:42007?encryption=none&security=none&type=tcp&headerType=none#SR.H0JAT%20-%20bradr.akhtar
+vless://85666e3b-dc0f-4795-a03b-48fcf60ff18e@185.26.33.38:25083?encryption=none&security=none&type=tcp&headerType=none#oniran_1
+vless://09274ce6-0aa3-4d98-b9a1-1959bfd52f8d@185.26.33.38:23648?encryption=none&security=none&type=tcp&headerType=none#oniran_2
+vless://e19e5bf7-8e01-46de-934f-51a3a5ac52dd@185.26.33.38:14346?encryption=none&security=none&type=tcp&headerType=none#oniran_3
+vless://90450878-5347-4af3-aad1-051ef06ea6cd@185.26.33.38:28259?encryption=none&security=none&type=tcp&headerType=none#oniran_4
+vless://8d246cc1-60ff-499b-928a-d473ff0fa0f6@185.26.33.38:51217?encryption=none&security=none&type=tcp&headerType=none#oniran_5
+vless://3661c282-c958-4f15-8780-fac7ef48ce69@185.26.33.38:43092?encryption=none&security=none&type=tcp&headerType=none#oniran_6
+vless://3c2ebf4c-1ce7-4ffe-8fec-5eba0b8ef9b2@62.60.210.225:80?encryption=none&security=none&type=tcp&headerType=none#oniran_7
+vless://2227f16e-6938-40e5-a6ce-ac416ec4eae5@62.60.210.225:80?encryption=none&security=none&type=tcp&headerType=none#oniran_8
+vless://622e7fec-7900-4b5c-98aa-04cd62ffa7e7@185.26.33.38:34018?encryption=none&security=none&type=tcp&headerType=none#oniran_9
+vless://00ec6736-9a27-4054-afd4-ae161c7b4106@185.26.33.38:22835?encryption=none&security=none&type=tcp&headerType=none#oniran_10
+vless://28cb4a5e-8f29-45ee-b98b-a12fb3005306@62.60.210.225:80?encryption=none&security=none&type=tcp&headerType=none#oniran_11
