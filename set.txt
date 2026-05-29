@@ -1,9 +1,7 @@
 vless://10e11f52-0794-4a3f-913a-60d830e093f2@194.32.213.64:21046?encryption=none&security=none&type=tcp&headerType=none#dxz7o558
-vless://ffd971b5-91d6-4587-886e-9fc5d14d520f@109.70.76.196:58948?encryption=none&security=none&type=tcp&headerType=none#xn344rfg
 vless://9465d22a-6769-426a-bf25-b1b7bcaee08c@188.121.102.14:443?encryption=none&security=none&type=tcp&headerType=none#MAMALi%20-%20KHAN-MAMAL
 vless://2fc4efd3-db6f-4d8c-bfe8-26f02cc593f5@185.165.118.112:48427?encryption=none&security=none&type=tcp&headerType=none#717ze2ez
 vless://a4863c08-848c-48ad-abd1-093a1290de40@188.121.102.14:443?encryption=none&security=none&type=tcp&headerType=none#MAMALi%20-%205z9vplgl
-vless://66b0b837-b8b8-4b2a-85cf-0f1b113c7c83@185.215.230.4:22764?encryption=none&security=none&type=tcp&headerType=none#%D9%81%D9%82%D8%B7%20%D8%A8%D8%B1%D8%A7%20%D9%BE%D9%86%D9%84%20-%201zxragpa
 vless://aac73671-6059-4158-a35b-a83590972864@188.121.102.14:443?encryption=none&security=none&type=tcp&headerType=none#MAMALi%20-%20khan
 vless://526d92cf-b054-43a7-93d6-63033c2fbd16@62.220.123.227:42007?encryption=none&security=none&type=tcp&headerType=none#SR.H0JAT%20-%20Amo.safar.
 vless://82215de7-6cca-42be-93db-dc888c8b64cb@62.220.123.227:42007?encryption=none&security=none&type=tcp&headerType=none#SR.H0JAT%20-%20ardlan.g
@@ -17,8 +15,6 @@ vless://179dbcd2-cd6d-4653-a91b-87aa8a58d745@62.220.123.227:42007?encryption=non
 vless://89ff3561-974a-4db7-a943-2b6a550addd4@31.14.123.71:40906?encryption=none&security=none&type=tcp&headerType=none#tanel%20-%2030ejkjql
 vless://64de87bf-132d-414f-a599-c75446d3c3e9@62.220.123.227:42007?encryption=none&security=none&type=tcp&headerType=none#SR.H0JAT%20-%20hosin.mohamadpor
 vless://0ba873b1-636a-472b-ab6f-fb40d7d8395c@62.220.123.227:42007?encryption=none&security=none&type=tcp&headerType=none#SR.H0JAT%20-%20khanm.astvan
-vless://77e9b542-258e-410f-84e3-24f132ebbf4f@2.144.4.149:53668?encryption=none&security=none&type=tcp&headerType=none#kqwwelib
-vless://2f86387b-c857-40f3-a64e-f9a1a9dc200a@2.144.4.149:53668?encryption=none&security=none&type=tcp&headerType=none#amirtest
 vless://8daeaf8d-b957-4f21-b956-71008e990f69@62.220.123.227:42007?encryption=none&security=none&type=tcp&headerType=none#SR.H0JAT%20-%20mondni
 vless://94c5c430-be4b-421b-b556-560dcd2d97f4@62.220.123.227:42007?encryption=none&security=none&type=tcp&headerType=none#SR.H0JAT%20-%20reza.zmani
 vless://6c4dc3af-7ae4-4ed2-a7b2-33773949b975@62.220.123.227:42007?encryption=none&security=none&type=tcp&headerType=none#SR.H0JAT%20-%20ali.shahzadh
