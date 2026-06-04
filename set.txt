@@ -22,3 +22,12 @@ vless://61d6e5a3-81b7-4f96-9122-3fd85def0bbe@85.133.254.199:51025?encryption=non
 vless://7af8301b-5d46-4c06-a151-e8ba14d171cc@45.84.157.98:28641?encryption=none&security=none&type=tcp&headerType=none#work_48
 vless://9ed9a452-6423-4f71-9bb6-2238df94b81d@5.145.114.82:44411?encryption=none&security=none&type=tcp&headerType=none#work_49
 vless://c48aa54a-afbd-4b03-baed-61a0b5332b9a@171.22.27.77:54321?encryption=none&security=none&type=tcp&headerType=none#work_50
+vless://74ce166e-113a-42ae-86d4-b3361a257034@185.27.44.235:32512?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#work_1
+vless://43543305-862f-43bd-b929-f02e60e94471@185.36.145.176:28356?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#work_2
+vless://5de7f164-4925-4c44-83de-780eac508e7b@62.60.141.220:45428?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#work_3
+vless://60149916-f40c-4ca2-95af-4b00a2470982@79.175.167.16:40754?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#work_4
+vless://0e7dd6e6-5182-4972-87d8-27906d5f7c67@185.110.219.245:29096?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#work_5
+vless://7af8301b-5d46-4c06-a151-e8ba14d171cc@45.84.157.98:28641?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#work_6
+vless://9ed9a452-6423-4f71-9bb6-2238df94b81d@5.145.114.82:44411?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#work_7
+vless://61d6e5a3-81b7-4f96-9122-3fd85def0bbe@85.133.254.199:51025?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#work_8
+vless://c48aa54a-afbd-4b03-baed-61a0b5332b9a@171.22.27.77:54321?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#work_9
