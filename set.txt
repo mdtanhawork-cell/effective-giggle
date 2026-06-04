@@ -16,3 +16,9 @@ vless://af35b8cb-3445-4863-b0c6-544513b27b40@193.151.129.112:53733?encryption=no
 vless://64bb81a7-dca8-4513-a50d-7e696a0a3a81@188.121.107.119:35213?encryption=none&security=none&type=tcp&headerType=none#work_127
 vless://0d2bfcf4-dff8-4180-a925-1e6ece048c5b@188.121.107.119:40214?encryption=none&security=none&type=tcp&headerType=none#work_135
 vless://e82d3316-4de1-4c46-ad85-f2b25f120096@193.151.129.112:53733?encryption=none&security=none&type=tcp&headerType=none#work_148
+vless://60149916-f40c-4ca2-95af-4b00a2470982@79.175.167.16:40754?encryption=none&security=none&type=tcp&headerType=none#work_8
+vless://0e7dd6e6-5182-4972-87d8-27906d5f7c67@185.110.219.245:29096?encryption=none&security=none&type=tcp&headerType=none#work_10
+vless://61d6e5a3-81b7-4f96-9122-3fd85def0bbe@85.133.254.199:51025?encryption=none&security=none&type=tcp&headerType=none#work_46
+vless://7af8301b-5d46-4c06-a151-e8ba14d171cc@45.84.157.98:28641?encryption=none&security=none&type=tcp&headerType=none#work_48
+vless://9ed9a452-6423-4f71-9bb6-2238df94b81d@5.145.114.82:44411?encryption=none&security=none&type=tcp&headerType=none#work_49
+vless://c48aa54a-afbd-4b03-baed-61a0b5332b9a@171.22.27.77:54321?encryption=none&security=none&type=tcp&headerType=none#work_50
