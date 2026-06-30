@@ -30,4 +30,3 @@ vless://abfa97e6-a903-4627-96cd-d21dcf01bc73@103.118.252.89:26751?encryption=non
 vless://63b4db34-0b11-48be-86ad-36c631463b94@103.207.49.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=LkpiDRANr8MMW0Rf-16Hk1xs-sbLUf1MZedfKhLezi4&sid=0404469d8d747c&spx=%2F&type=tcp&headerType=none#TW-Reality-2606-13fdw255
 vless://abfa97e6-a903-4627-96cd-d21dcf01bc73@103.118.252.152:26751?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=geigItRXOIOCH3y78oRlDaUFXTGiCYYDiEqwWxrtEVI&sid=df8611c07d&spx=%2F&type=tcp&headerType=none#ffhqhrkq
 vless://abfa97e6-a903-4627-96cd-d21dcf01bc73@103.118.252.152:36701?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=geigItRXOIOCH3y78oRlDaUFXTGiCYYDiEqwWxrtEVI&sid=df8611c07d&spx=%2F&type=tcp&headerType=none#qvsucpno
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPQXI3Q1BPQ1NwVEI@103.118.252.89:30467?#node-nwk3cwyz-fofa-nwk3cwyz
