@@ -7,3 +7,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlE
 vless://ba8f897a-753b-40a2-800b-bf716e65b54a@hayabusa.proxy.rlwy.net:36741?encryption=none&security=none&type=ws&host=hayabusa.proxy.rlwy.net&path=%2Fws%2F29291442-0776-1745-2203-87388bf9f27c#work9_1
 vless://b6d7c0af-fa36-12e6-60d2-a4260129235b@ansooyefilter4.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter4.up.railway.app&path=/ws/b6d7c0af-fa36-12e6-60d2-a4260129235b&sni=ansooyefilter4.up.railway.app&fp=chrome&alpn=http/1.1#work8_623
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#work9_1
+vless://ea0ba5a3-9c16-4e6a-8bed-55449fa053b2@hayabusa.proxy.rlwy.net:48106?encryption=none&security=none&type=ws&path=%2F#work9_1
