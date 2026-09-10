@@ -1,7 +1,7 @@
 {
- "generated_at": 1789012949.075725,
- "alive_total": 60,
- "in_sub": 60,
+ "generated_at": 1789013359.3073683,
+ "alive_total": 100,
+ "in_sub": 100,
  "collected": 2567,
- "tested": 3567
+ "tested": 6134
 }
