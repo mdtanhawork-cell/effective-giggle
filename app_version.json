@@ -1,0 +1,17 @@
+{
+  "status": "ACTIVE",
+  "kill_switch": false,
+  "message": "",
+  "min_version": "2.3.0",
+  "banner": {
+    "active": false,
+    "text": "",
+    "link": ""
+  },
+  "update": {
+    "latest_version": "2.3.17",
+    "version_code": 757,
+    "changelog": "Bug fixes and performance improvements",
+    "download_url": "https://github.com/mdtanhawork-cell/effective-giggle/releases/latest/download/SmartVPN.apk"
+  }
+}
