@@ -9,9 +9,9 @@
     "link": ""
   },
   "update": {
-    "latest_version": "2.3.17",
-    "version_code": 757,
-    "changelog": "• ارتقای سرعت و پایداری اتصال به سرورها\n• رفع باگ‌ها و بهبود عملکرد کلی برنامه",
+    "latest_version": "2.3.18",
+    "version_code": 758,
+    "changelog": "• بهبود سرعت و پایداری اتصال به سرورها\n• رفع باگ‌ها و عملکرد بهینه",
     "download_url": "http://167.86.122.134:8090/download/smartvpn.apk"
   }
 }
