@@ -1,13 +1,17 @@
 {
-  "update": {
-    "latest_version": "2.3.21",
-    "version_code": 761,
-    "changelog": "• اتصال فوق سریع زیر ۲ ثانیه با سیستم استخر سرورهای زنده\n• بدون معطلی و هنگی روی تمامی اپراتورها\n• سوییچ هوشمند خودکار بدون قطعی",
-    "download_url": "https://posters-deposits-birmingham-str.trycloudflare.com/download/smartvpn.apk"
+  "status": "ACTIVE",
+  "kill_switch": false,
+  "message": "",
+  "min_version": "2.3.0",
+  "banner": {
+    "active": false,
+    "text": "",
+    "link": ""
   },
-  "version": "2.3.21",
-  "latest_version": "2.3.21",
-  "version_code": 761,
-  "changelog": "• اتصال فوق سریع زیر ۲ ثانیه با سیستم استخر سرورهای زنده\n• بدون معطلی و هنگی روی تمامی اپراتورها\n• سوییچ هوشمند خودکار بدون قطعی",
-  "download_url": "https://posters-deposits-birmingham-str.trycloudflare.com/download/smartvpn.apk"
+  "update": {
+    "latest_version": "2.3.18",
+    "version_code": 758,
+    "changelog": "• بهبود سرعت و پایداری اتصال به سرورها\n• رفع باگ‌ها و عملکرد بهینه",
+    "download_url": "http://167.86.122.134:8090/download/smartvpn.apk"
+  }
 }
