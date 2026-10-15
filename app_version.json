@@ -1,17 +1,6 @@
 {
-    "status": "ok",
-    "kill_switch": "ACTIVE",
-    "kill_message": "سرویس فعال است",
-    "min_version": "2.3.0",
-    "banner": {
-        "active": false,
-        "text": "",
-        "link": ""
-    },
-    "update": {
-        "latest_version": "2.3.19",
-        "version_code": 759,
-        "changelog": "• بهبود سرعت و پایداری اتصال به سرورها\n• رفع باگ‌ها و عملکرد بهینه",
-        "download_url": "https://posters-deposits-birmingham-str.trycloudflare.com/download/smartvpn.apk"
-    }
+  "version": "2.3.20",
+  "version_code": 760,
+  "changelog": "• لودبالانسینگ هوشمند و توزیع متوازن بار ترافیک\n• اتصال تک‌کلیک فوق سریع بدون وقفه و هنگی\n• سیستم ضد اختلال پیشرفته و بهینه‌سازی پایداری",
+  "download_url": "https://posters-deposits-birmingham-str.trycloudflare.com/download/smartvpn.apk"
 }
