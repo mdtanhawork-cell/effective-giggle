@@ -1,7 +1,7 @@
 {
   "status": "ACTIVE",
   "kill_switch": false,
-  "message": "",
+  "message": "سرویس فعال است",
   "min_version": "2.3.0",
   "banner": {
     "active": false,
@@ -9,9 +9,9 @@
     "link": ""
   },
   "update": {
-    "latest_version": "2.3.18",
-    "version_code": 758,
-    "changelog": "• بهبود سرعت و پایداری اتصال به سرورها\n• رفع باگ‌ها و عملکرد بهینه",
-    "download_url": "http://167.86.122.134:8090/download/smartvpn.apk"
+    "latest_version": "2.3.22",
+    "version_code": 762,
+    "changelog": "• ارتقای رابط کاربری و رفع مشکل ریسپانسیو و اسکرول نرم در تمام گوشی‌ها\n• افزودن دکمه بستن (ضربدر) برای اعلان آپدیت\n• افزایش چشمگیر سرعت اتصال با اتصال موازی هوشمند\n• بهینه‌سازی لایه‌های اتصال و پایداری شبکه",
+    "download_url": "https://admit-norman-courage-bird.trycloudflare.com/download/smartvpn.apk"
   }
 }
