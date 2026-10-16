@@ -9,9 +9,9 @@
     "link": ""
   },
   "update": {
-    "latest_version": "2.3.30",
-    "version_code": 770,
-    "changelog": "• رفع مشکل انتخاب لوکیشن و سوئیچ نود در حالت قطع\n• نمایش دقیق تعداد سرورهای فعال کشورها\n• بهبود پایداری و فیل‌اور آنی به نودهای سالم",
+    "latest_version": "2.3.31",
+    "version_code": 771,
+    "changelog": "• رفع کامل لگ و هنگی در تغییر لوکیشن\n• اتصال سریع و بهینه‌سازی دکمه اتصال\n• نمایش فوری پینگ و پایداری شبکه",
     "download_url": "https://kinase-prohibited-division-provinces.trycloudflare.com/download/smartvpn.apk"
   }
 }
