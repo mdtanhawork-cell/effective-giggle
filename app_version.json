@@ -9,9 +9,9 @@
     "link": ""
   },
   "update": {
-    "latest_version": "2.3.22",
-    "version_code": 762,
-    "changelog": "• ارتقای رابط کاربری و رفع مشکل ریسپانسیو و اسکرول نرم در تمام گوشی‌ها\n• افزودن دکمه بستن (ضربدر) برای اعلان آپدیت\n• افزایش چشمگیر سرعت اتصال با اتصال موازی هوشمند\n• بهینه‌سازی لایه‌های اتصال و پایداری شبکه",
-    "download_url": "https://admit-norman-courage-bird.trycloudflare.com/download/smartvpn.apk"
+    "latest_version": "2.3.30",
+    "version_code": 770,
+    "changelog": "• رفع مشکل انتخاب لوکیشن و سوئیچ نود در حالت قطع\n• نمایش دقیق تعداد سرورهای فعال کشورها\n• بهبود پایداری و فیل‌اور آنی به نودهای سالم",
+    "download_url": "https://kinase-prohibited-division-provinces.trycloudflare.com/download/smartvpn.apk"
   }
 }
