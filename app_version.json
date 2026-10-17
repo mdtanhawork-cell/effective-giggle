@@ -9,9 +9,9 @@
     "link": ""
   },
   "update": {
-    "latest_version": "2.3.31",
-    "version_code": 771,
-    "changelog": "• رفع کامل لگ و هنگی در تغییر لوکیشن\n• اتصال سریع و بهینه‌سازی دکمه اتصال\n• نمایش فوری پینگ و پایداری شبکه",
+    "latest_version": "2.3.38",
+    "version_code": 778,
+    "changelog": "• اتصال پایدار همراه اول و ایرانسل\n• بهینه‌سازی الگوریتم فرگمنت و پینگ سرورها\n• رفع مشکل عدم اتصال به اینترنت",
     "download_url": "https://kinase-prohibited-division-provinces.trycloudflare.com/download/smartvpn.apk"
   }
 }
